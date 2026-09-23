@@ -1,22 +1,12 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Hi%20there%2C%20I%27m%20Pranathi%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2D8,50:F7A1C4,100:EC6FA5&height=150&section=header&text=Hi%2C%20I%27m%20Pranathi%20Reddy%20Jogannagari%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 <div align="center">
-
-<!-- Typing Animation -->
-<a href="https://github.com/PranathiReddy962">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Exploring+Generative+AI+%26+LLMs;Always+building+something+new" alt="Typing SVG" />
-</a>
-
+<a href="https://github.com/PranathiReddy962"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=93C572&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Software+Developer;Exploring+Generative+AI+%26+LLMs;Always+building+something+new" alt="Typing SVG" /></a>
 <br>
-
 <a href="mailto:pranathireddyj2000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/PranathiReddy962"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=PranathiReddy962&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-
 </div>
-
----
 
 ## 🙋‍♀️ About Me
 
@@ -123,4 +113,4 @@ Upload documents and ask questions in natural language, with answers grounded in
 </div>
 
 <!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC6FA5,50:F7A1C4,100:FBC2D8&height=100&section=footer" width="100%"/>
